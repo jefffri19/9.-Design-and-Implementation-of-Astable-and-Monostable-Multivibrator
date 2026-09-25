@@ -74,17 +74,26 @@ RA=7.2KΩ, RB= 3.6KΩ
 5.	Theoretically calculate the pulse duration as T=1.1 RAC
 
 
-
+**MONOSTABLE MULTIVIBRATOR:**
   **CIRCUIT DIAGRAM**
+<img width="997" height="1600" alt="image" src="https://github.com/user-attachments/assets/6eb8e8c5-f4aa-4d07-a612-3f43e5b5643e" />
 
 
-  **MODEL GRAPH:**
+  **MODEL GRAPH AND TABULATION:**
+ <img width="1101" height="1600" alt="image" src="https://github.com/user-attachments/assets/b83f751d-fb04-4049-a10d-a9217b785409" />
 
+**GRAPH:**
+<img width="1214" height="1600" alt="image" src="https://github.com/user-attachments/assets/701b59fb-be7f-4acb-94a3-774a472961fd" />
 
-  **TABULATION:**
- 
+**ASTABLE MULTIVIBRATOR:**
+ **CIRCUIT DIAGRAM AND MODEL GRAPH:**
+ <img width="1067" height="1600" alt="image" src="https://github.com/user-attachments/assets/fe05ea29-6183-4527-9115-7365922b558b" />
 
+**TABULATION:**
+<img width="1566" height="1600" alt="image" src="https://github.com/user-attachments/assets/b4fa96af-a34c-4c62-b132-657979cfb623" />
 
+**GRAPH:**
+<img width="968" height="1342" alt="image" src="https://github.com/user-attachments/assets/d4cf1f99-bb78-4e63-bc14-45841b5e9e13" />
 
 
 **RESULT:**
